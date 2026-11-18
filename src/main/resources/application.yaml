@@ -33,5 +33,6 @@ app:
 
 vaadin:
   launch-browser: false
+  allowed-packages: org.delcom.ifs25039springbootcashflow
   liveReload:
     enabled: true
